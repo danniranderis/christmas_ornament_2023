@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "christmas_ornament_2023_footprints")(type "KiCad")(uri "${KIPRJMOD}/christmas_ornament_2023_footprints.pretty")(options "")(descr ""))
+)
