@@ -1466,8 +1466,8 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 2397c1dd-35e3-4949-9c03-becf00ce0684)
   )
-  (text "1)\nThis mode is for same-colour LEDs that are \"blinking\" in two pairs via a 555-timer controlled circuit.\n- Only bridge JP1 pin 1 and 2.\n\n2)\nThis mode is just for PWD to slow-flashing RGB-LEDs.\n- Bridge JP1 pin 2 and 3.\n- Bridge JP2 and JP3.\n- No need to populate:\n	- R1, R2, R3, R20\n	- C1, C2, C3\n	- D1, D2\n	- Q1, Q2"
-    (at 27.94 175.26 0)
+  (text "1)\nThis mode is for same-colour LEDs that are \"blinking\" in two pairs via a 555-timer controlled circuit.\n- Only bridge JP1 pin 1 and 2.\n\n2)\nThis mode is just for PWD to slow-flashing RGB-LEDs.\n- Bridge JP1 pin 2 and 3.\n- Bridge JP2 and JP3.\n- No need to populate:\n	- R1, R2, R3, R20\n	- C1, C2, C3\n	- D1, D2\n	- Q1, Q2\n	- U1"
+    (at 27.94 176.53 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 3a0edfa4-b8aa-453a-a3d5-da7082730fd7)
   )
